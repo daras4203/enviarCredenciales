@@ -98,4 +98,4 @@ RUTA_EXCEL = "data/usuarioCorreo.xlsx"
 
 ## 👤 Autor
 
-Proyecto interno — Area DO
+Proyecto interno — Dario Asprilla A.
